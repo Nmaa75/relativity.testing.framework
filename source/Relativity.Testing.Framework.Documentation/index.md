@@ -5,4 +5,4 @@ Here you can find documentation and guides on common use cases for Relativity.Te
 
 Also check out the [Relativity.Testing.Framework.Api documentation](https://relativitydev.github.io/relativity.testing.framework.api/).
 
-EDITED TEXT
+NEW TEXT
